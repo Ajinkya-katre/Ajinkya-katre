@@ -10,7 +10,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ajinkya-katre?style=social">
   </a>
   <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ajinkya@example.com-blue?style=flat-square&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-katreajinkya@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkya-blue?style=flat-square&logo=linkedin&logoColor=white">
