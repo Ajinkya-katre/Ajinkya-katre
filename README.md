@@ -13,7 +13,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-katreajinkya@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkya-katre-blue?style=flat-square&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkyakatre-blue?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
 
