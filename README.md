@@ -46,7 +46,6 @@
 
 ### ⭐ Featured Repositories
 <!-- You can use pinned repositories or project highlights -->
-- **⚛️ grapesProject** – A cool project using HTML + JS (Web-based UI)  
 - **🍽️ Restaurent-App** – Angular Restaurant App UI  
 - **🚀 Rapid-api** – Practice with various REST APIs  
 - **📍 Tindog-clone** – UI clone project  
